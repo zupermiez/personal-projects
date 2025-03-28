@@ -1,8 +1,8 @@
 ---
 title: "IR controlled curtains"
 date: 2022-04-02 10:00:00 +0200
-categories: [test, example]
-tags: [sample, demo]
+categories: [arduino, IR]
+tags: [arduino, IR]
 image: /assets/img/ircurtain.jpg
 ---
 

@@ -34,27 +34,23 @@ Below are some personal favorites from the detection folder.
 
 
 <p float="left">
-  <img src="/assets/img/final/lake_60.032732_24.490773.png" width="325" />
-  <img src="/assets/img/final/lake2.png" width="400" />
+  <img src="/assets/img/final/lake_60.032732_24.490773.png" width="325" alt="Lake at coordinates 60.032732, 24.490773" />
+  <img src="/assets/img/final/lake2.png" width="400" alt="Lake detection result 2" />
 </p>
 <p float="left">
-  <img src="/assets/img/final/lake_61.989647_27.664928.png" width="325" />
-  <img src="/assets/img/final/lake4.png" width="275" />
+  <img src="/assets/img/final/lake_61.989647_27.664928.png" width="325" alt="Lake at coordinates 61.989647, 27.664928" />
+  <img src="/assets/img/final/lake4.png" width="275" alt="Lake detection result 4" />
 </p>
 <p float="left">
-  <img src="/assets/img/final/lake_62.760774_24.623631.png" width="325" />
-  <img src="/assets/img/final/lake5.png" width="400" />
+  <img src="/assets/img/final/lake_62.760774_24.623631.png" width="325" alt="Lake at coordinates 62.760774, 24.623631" />
+  <img src="/assets/img/final/lake5.png" width="400" alt="Lake detection result 5" />
 </p>
 <p float="left">
-  <img src="/assets/img/final/lake_62.710499_27.962578.png" width="325" />
-  <img src="/assets/img/final/lake3.png" width="400" />
+  <img src="/assets/img/final/lake_62.710499_27.962578.png" width="325" alt="Lake at coordinates 62.710499, 27.962578" />
+  <img src="/assets/img/final/lake3.png" width="400" alt="Lake detection result 3" />
 </p>
 <p float="left">
-  <img src="/assets/img/final/lake_63.705917_29.636578.png" width="325" />
-  <img src="/assets/img/final/lake1.png" width="300" />
+  <img src="/assets/img/final/lake_63.705917_29.636578.png" width="325" alt="Lake at coordinates 63.705917, 29.636578" />
+  <img src="/assets/img/final/lake1.png" width="300" alt="Lake detection result 1" />
 </p>
 
-
-
-## License
-MIT License - see the [LICENSE.md](LICENSE.md) file for details
