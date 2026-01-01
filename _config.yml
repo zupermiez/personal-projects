@@ -16,7 +16,7 @@ timezone:
 
 title: Erkka Lehtonen  # the main title
 
-tagline: I like building things and people building things. Maybe even buildings sometimes # it will display as the subtitle
+tagline: Solving equations by day, solving "What is that burnt electronics smell?" by night # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
